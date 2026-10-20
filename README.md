@@ -4,7 +4,7 @@
 
 Μια απλή εφαρμογή επανάληψης για το μάθημα **AG136 Biological Bases of Behaviour** (WS 2026/27), φτιαγμένη από φοιτητές για φοιτητές. Ανοίγει σε οποιονδήποτε browser, από κινητό ή υπολογιστή, χωρίς εγγραφή και χωρίς εγκατάσταση.
 
-**Άνοιξέ την εδώ:** [https://ΤΟ-ΟΝΟΜΑ-ΣΟΥ.github.io/ΤΟ-ΟΝΟΜΑ-ΤΟΥ-REPOSITORY/](https://alkastrinogiannis.github.io/biological-bases-revision/)
+**Άνοιξέ την (εδώ)[https://alkastrinogiannis.github.io/biological-bases-revision/]:** 
 
 ## Τι περιέχει
 
